@@ -1,0 +1,9 @@
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\bin\Debug\warna.exe
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\bin\Debug\warna.pdb
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\bin\Debug\warna.xml
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.Form1.resources
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.Resources.resources
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.vbproj.GenerateResource.Cache
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.exe
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.xml
+c:\users\bima\documents\visual studio 2012\Projects\warna\warna\obj\Debug\warna.pdb
